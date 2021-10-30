@@ -1,0 +1,13 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+}
+.foot{
+    display:grid;
+    flex-direction: row;
+    border: 30px;
+    height: 100px;
+    background-color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: blanchedalmond;
+}
